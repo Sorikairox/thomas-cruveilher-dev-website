@@ -1,4 +1,5 @@
 import { experiences, facts, profile, skills } from "./content";
+import { GraphBackground } from "./GraphBackground";
 
 function WipBanner() {
 	return (
@@ -14,6 +15,7 @@ function WipBanner() {
 function App() {
 	return (
 		<>
+			<GraphBackground />
 			<WipBanner />
 			<main className="page">
 				<header className="hero">
