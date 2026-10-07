@@ -11,6 +11,7 @@ export const profile = {
 		"I care about short feedback loops, clean code, and people who can say “I don't know”.",
 	],
 	links: [
+		{ label: "LinkedIn", href: "https://www.linkedin.com/in/thomascruveilher" },
 		{ label: "GitHub", href: "https://github.com/sorikairox" },
 		{ label: "Danet", href: "https://github.com/Savory/Danet" },
 	],
